@@ -1,0 +1,13 @@
+new_tab @@session@@
+cd @@session-path@@ 
+launch zsh
+
+new_tab test
+cd @@session-path@@ 
+launch zsh
+
+new_tab run
+cd @@session-path@@ 
+launch zsh
+
+focus_tab 0

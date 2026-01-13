@@ -1,0 +1,21 @@
+new_tab Vim
+cd ~/.config/nvim
+launch zsh
+
+new_tab Test
+cd ~/.config/nvim
+launch zsh
+
+new_tab Other
+cd ~/.config/nvim
+launch zsh
+
+new_tab System
+cd ~/.local/share/nvim
+launch zsh
+
+new_tab Insp
+cd ~/inspiration/vim
+launch zsh
+
+focus_tab 0

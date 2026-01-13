@@ -1,0 +1,5 @@
+new_tab Home
+cd ~
+launch zsh
+
+focus_tab 0

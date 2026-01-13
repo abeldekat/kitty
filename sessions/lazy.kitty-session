@@ -1,0 +1,13 @@
+new_tab Lazy
+cd ~/.config/lazy
+launch zsh
+
+new_tab System
+cd ~/.local/share/lazy
+launch zsh
+
+new_tab Config
+cd ~/.config/lazy
+launch zsh
+
+focus_tab 0

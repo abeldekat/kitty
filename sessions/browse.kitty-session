@@ -1,0 +1,6 @@
+# An extra session, until it is possible to create sessions on the fly
+new_tab Browse
+cd ~
+launch zsh
+
+focus_tab 0
